@@ -31,5 +31,5 @@ A React application that integrates with the Reqres API to perform basic user ma
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/employwise-user-management.git
+git clone https://github.com/VaibhavDwivedi8041/employwise-user-management.git
 cd employwise-user-management
